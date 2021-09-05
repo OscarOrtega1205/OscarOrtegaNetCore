@@ -7,4 +7,5 @@ Utilizando
 - SQL Server
 - DependencyInjection
 - Entity FrameWork
+- LINQ
 - Swagger
